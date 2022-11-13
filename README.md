@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning Django and laravel.<br>
 - 👯 I’m looking to collaborate on remote/freelance mobile or web development<br>
 - ⚡ I read articles and watch youtube videos in my spare time.<br>
+- 📮 Get In touch: https://www.linkedin.com/in/joshua-nk-tetteh/
 </p>
 ---
 
