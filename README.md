@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1>I'am Joshua Tetteh<h1>
 <!--
 **joshthedevelopa/joshthedevelopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
