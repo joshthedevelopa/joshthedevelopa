@@ -8,6 +8,8 @@
 - ⚡ I read articles and watch youtube videos in my spare time.</p>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=joshthedevelopa&theme=light" />
+
   
 <!--
 **joshthedevelopa/joshthedevelopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
