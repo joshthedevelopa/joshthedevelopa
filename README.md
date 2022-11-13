@@ -7,12 +7,14 @@
 <img src="https://komarev.com/ghpvc/?username=joshthedevelopa&style=flat-square&color=blue" alt=""/>
 
 <h2>About Me: </h2>
+<p>
 - 🔭 I am a software developer at Amalitech Gh.<br>
 - 🌱 I’m currently learning Django and laravel.<br>
 - 👯 I’m looking to collaborate on remote/freelance mobile or web development<br>
 - ⚡ I read articles and watch youtube videos in my spare time.<br>
 </p>
 ---
+
 ### 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -29,7 +31,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
+
+
 ### 🔥My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshthedevelopa&theme=dracula)](https://git.io/streak-stats)
 
