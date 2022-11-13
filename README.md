@@ -31,7 +31,7 @@
 </div>
 ---
 ### 🔥My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshdevelopa&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshthedevelopa&theme=dracula)](https://git.io/streak-stats)
 
 
   
