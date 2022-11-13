@@ -3,7 +3,7 @@
 - 🔭 I am a software developer at Amalitech Gh.<br>
 - 🌱 I’m currently learning Django and laravel.<br>
 - 👯 I’m looking to collaborate on remote/freelance mobile or web development<br>
-- 📫 How to reach me: ![linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]
+- 📫 How to reach me: ![linkedin](https://img.shields.io/badge/Linkedin-00FFFF?style=for-the-badge&logo=Linkedin&logoColor=white)]
 
 
 - </p>
