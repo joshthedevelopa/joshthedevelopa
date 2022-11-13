@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning Django and laravel.<br>
 - 👯 I’m looking to collaborate on remote/freelance mobile or web development<br>
 - ⚡ I read articles and watch youtube videos in my spare time.<br>
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-nk-tetteh)
 </p>
 ---
 ### 🛠️ Languages and Tools:
@@ -30,7 +29,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+---
+### 🔥My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshdevelopa&theme=dracula)](https://git.io/streak-stats)
 
 
   
