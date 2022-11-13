@@ -4,7 +4,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for -the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=joshthedevelopa&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=joshthedevelopa&style=flat-square&color=blue" alt=""/>
 
 <h2>About Me: </h2>
 <p>
@@ -36,8 +36,12 @@
 
 
 ### 🔥My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshthedevelopa&theme=dracula)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshthedevelopa&theme=dracula)](https://git.io/streak-stats)  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshthedevelopa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
   
 <!--
