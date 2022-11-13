@@ -3,12 +3,14 @@
 - 🔭 I am a software developer at Amalitech Gh.<br>
 - 🌱 I’m currently learning Django and laravel.<br>
 - 👯 I’m looking to collaborate on remote/freelance mobile or web development<br>
-- 📫 How to reach me:</p>
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+- </p>
 
 - ⚡ I read articles and watch youtube videos in my spare time.</p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=joshthedevelopa&theme=light" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/container/?username=joshthedevelopa&theme=light" />
 
   
 <!--
