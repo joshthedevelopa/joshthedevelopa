@@ -46,6 +46,7 @@
 <h2>🔥 My Stats: </h2>
 <p align="center" style="display: flex; flex-direction: row;">
    <img style="flex: 1" class="img" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=joshthedevelopa&theme=dracula" />
+   <img style="flex: 1" class="img" height="200" src="https://github-readme-stats.vercel.app/api?username=joshthedevelopa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
    <img style="flex: 1" class="img" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshthedevelopa&layout=compact&theme=vision-friendly-dark" />
 </p>
 
