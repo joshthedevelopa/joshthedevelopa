@@ -12,7 +12,7 @@
 
 <h2>About Me: </h2>
 <p>
-- 🔭 I am currenty a Junior Quality Assurance Engineer at Amalitech GH.<br>
+- 🔭 I am currenty a Flutter mobile developer at Amalitech GH.<br>
 - 🌱 I develop mobile apps using Flutter.<br>
 - 🌱 I’m currently learning Django and Laravel.<br>
 - 👯 I’m looking to collaborate on remote / freelance mobile or web project development<br>
